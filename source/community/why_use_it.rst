@@ -204,6 +204,10 @@ We trust NGINX to take deliver blazing fast page load speed and a smooth experie
 
 -- `Cloudways <https://www.cloudways.com/en/>`__
 
+Our experience with NGINX has been exceptional. This powerful solution has proven to be significantly faster than Apache in handling requests, resulting in lightning-fast site speed. We have noticed a remarkable improvement in the performance of our websites since switching to NGINX.site speed.
+
+-- `Techi <https://techi.com/>`__
+
 .. _why_use_it.notes:
 
 Notes
